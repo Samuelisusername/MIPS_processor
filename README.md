@@ -1,3 +1,3 @@
 # MIPS_processor
 
-will be uploaded shortlys
+will be uploaded shortly
